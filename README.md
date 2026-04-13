@@ -113,4 +113,4 @@ SELECT SPEL_OUT_BN(1234567.50) FROM DUAL;
  # Thank you
  ## Sanjay Sikder
 
- You can connect with me on [LinkedIn](https://www.linkedin.com/in/sanjay-sikder/)!
+ You can connect with me on <a href="https://www.linkedin.com/in/sanjay-sikder/" target="_blank">LinkedIn</a>!
